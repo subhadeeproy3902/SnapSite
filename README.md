@@ -4,11 +4,11 @@ SnapSite is a web application that enables users to take screenshots of any webs
 
 ![SnapSite Screenshot](https://i.postimg.cc/63ZfYZwG/529shots-so.webp)
 
-### Live Demo
+## Live Demo
 
 Check out the live demo of SnapSite [here](https://snapsite-v1.vercel.app/).
 
-### Technologies Used
+## Technologies Used
 
 SnapSite is built using the following technologies:
 
@@ -16,7 +16,7 @@ SnapSite is built using the following technologies:
 - TypeScript
 - Tailwind CSS
 
-### Getting Started
+## Getting Started
 
 To run SnapSite locally, follow these steps:
 
@@ -33,11 +33,11 @@ Also make a `.env` file in the main directory and `NEXT_PUBLIC_ACCESS_KEY={Your 
 Get the api key from [Apiflash.com](https://api.apiflash.com/)
 
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have Node.js and npm installed on your machine.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to SnapSite, please follow these steps:
 
@@ -48,7 +48,7 @@ Contributions are welcome! If you'd like to contribute to SnapSite, please follo
 5. Commit your changes and push to your fork.
 6. Submit a pull request to the main repository.
 
-### Contact
+## Contact
 
 If you have any questions or suggestions regarding SnapSite, feel free to reach out:
 
@@ -56,7 +56,7 @@ If you have any questions or suggestions regarding SnapSite, feel free to reach 
 - Twitter: [@mvp_Subha](https://twitter.com/mvp_Subha)
 
 
-### License
+## License
 
 [MIT](https://github.com/subhadeeproy3902/snapsite/blob/main/LICENSE)
 
