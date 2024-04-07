@@ -21,7 +21,7 @@ SnapSite is built using the following technologies:
 To run SnapSite locally, follow these steps:
 
 1. Open Terminal of VS Code
-   ```git clone https://github.com/subhadeeproy3902/snapsite.git```
+   ```git clone https://github.com/subhadeeproy3902/SnapSite.git```
 
 2. Install the dependencies
 - `bun i` or `npm i` or `pnpm i` or `yarn`
