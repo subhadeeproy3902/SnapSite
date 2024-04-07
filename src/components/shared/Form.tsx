@@ -14,7 +14,7 @@ const Form = () => {
     setLoading(true);
     const url = (e.currentTarget[0] as HTMLInputElement).value;
     const res = await fetch(
-      `https://api.apiflash.com/v1/urltoimage?access_key=${accessKey}&url=${url}`
+      `https://api.apiflash.com/v1/urltoimage?access_key=${accessKey}&url=${url}&width=1200&height=630&quality=100`
     );
     if (res.ok) {
       const blob = await res.blob();
@@ -74,6 +74,7 @@ const Form = () => {
             width={800}
             height={500}
             alt="Snap"
+            style={{boxShadow: "0 0 20px #87CEEB50"}}
           />
         </div>
       )}
