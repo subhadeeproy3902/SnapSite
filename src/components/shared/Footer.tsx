@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <div
-      className="fixed z-50 left-2 bottom-4 font-medium bg-transparent backdrop-blur-3xl mx-auto flex w-auto items-center justify-center rounded border py-1 px-2 text-xs border-blue-500 sm:left-8 sm:bottom-10"
+      className="fixed z-50 left-2 bottom-4 font-medium bg-transparent backdrop-blur-3xl mx-auto flex w-auto items-center justify-center rounded border py-1 px-2 text-xs border-blue-500 sm:left-8 sm:bottom-10 text-white"
     >
       Made with{" "}
       <svg
